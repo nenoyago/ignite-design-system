@@ -1,5 +1,6 @@
 {
   "name": "@neno-ignite-ui/eslint-config",
+  "version": "1.0.0",
   "private": true,
   "main": "index.js",
   "license": "MIT",
