@@ -1,3 +1,3 @@
-const prettierConfig = require('@ignite-ui/eslint-config/prettier');
+const prettierConfig = require('@neno-ignite-ui/eslint-config/prettier');
 
 module.exports = prettierConfig;

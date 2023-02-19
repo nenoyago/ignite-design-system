@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@neno-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@neno-ignite-ui/eslint-config": "*",
+    "@neno-ignite-ui/tokens": "*",
+    "@neno-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
