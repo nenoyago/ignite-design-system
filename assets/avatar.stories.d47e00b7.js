@@ -1,0 +1,2 @@
+import{A as t}from"./index.26713e83.js";import"./index.63e7e68d.js";import"./iframe.c2cb0a4e.js";import"./index.9ab11781.js";import"./jsx-runtime.59eab050.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/nenoyago.png",alt:"Yago Neno"},argTypes:{src:{control:{type:"text"}},alt:{control:{type:"text"}}}},p={},c={args:{src:void 0}},n=["Primary","WithFallback"];export{p as Primary,c as WithFallback,n as __namedExportsOrder,i as default};
+//# sourceMappingURL=avatar.stories.d47e00b7.js.map
